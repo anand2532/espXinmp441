@@ -49,4 +49,4 @@ This project uses an ESP32 and an INMP441 I2S MEMS microphone to capture audio a
 The generated WAV file can be played using any standard audio player.
 
 ## Author
-Shaurye Singhal# espXinmp441
+Shaurye Singhal
