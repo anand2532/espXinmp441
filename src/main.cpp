@@ -9,7 +9,7 @@
 
 #define SAMPLE_RATE  16000
 #define BUFFER_LEN   256
-#define SERIAL_BAUD  921600
+#define SERIAL_BAUD  460800
 
 // INMP441 outputs 24-bit audio left-justified in a 32-bit I2S slot.
 #define SAMPLE_SHIFT 14

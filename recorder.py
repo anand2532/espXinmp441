@@ -36,7 +36,7 @@ def parse_args():
         "--port",
         help="Serial port (e.g. /dev/ttyUSB0). Auto-detected if omitted.",
     )
-    parser.add_argument("--baud", type=int, default=921600, help="Serial baud rate.")
+    parser.add_argument("--baud", type=int, default=460800, help="Serial baud rate.")
     parser.add_argument(
         "--duration", type=float, default=5.0, help="Recording duration in seconds."
     )
